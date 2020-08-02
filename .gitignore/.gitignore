@@ -1,0 +1,5 @@
+In your command line, navigate to your project directory. Type git init to initialize the directory as a Git repository.
+Type git remote add origin https://github.com/stepin104692/github-upload.git
+Type git add .
+Type git commit -m "initializing repository"
+Type git push -u origin master to push the files you have locally to the remote on GitHub. (You may be asked to log in.)
